@@ -43,11 +43,9 @@ const Footer = () => {
                         <FaLinkedin />
                     </span>
                 </div> */}
-                <div>
-                    <ul>
-                        <li>Designed By Pooja</li>
-                        <li>Developed By Raj</li>
-                    </ul>
+                <div >
+                    <p className="infoText">Copyright &copy; 2023, All Right Reserved.</p>
+                    
                 </div>
             </ContentWrapper>
         </footer>
