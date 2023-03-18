@@ -14,7 +14,7 @@ const Footer = () => {
     return (
         <footer className="footer">
             <ContentWrapper>
-                <ul className="menuItems">
+                {/* <ul className="menuItems">
                     <li className="menuItem">Terms Of Use</li>
                     <li className="menuItem">Privacy-Policy</li>
                     <li className="menuItem">About</li>
@@ -42,6 +42,12 @@ const Footer = () => {
                     <span className="icon">
                         <FaLinkedin />
                     </span>
+                </div> */}
+                <div>
+                    <ul>
+                        <li>Designed By Pooja</li>
+                        <li>Developed By Raj</li>
+                    </ul>
                 </div>
             </ContentWrapper>
         </footer>
